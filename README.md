@@ -1,2 +1,3 @@
-## Hi there 👋
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+## Olá 👋
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
+
